@@ -1,0 +1,14 @@
+[package]
+name = "isobus-plus-plus-sys"
+version = "0.0.1"
+edition = "2021"
+authors = ["Thom de Jong <https://github.com/Thom-de-Jong>"]
+description = "Auto-generated Rust bindings for the ISOBUS++ library by Adrian Del Grosso"
+keywords = ["isobus", "iso11783", "j1939", "can", "ffi"]
+categories = ["external-ffi-bindings"]
+
+license = "MIT"
+homepage = "https://github.com/Thom-de-Jong/isobus-plus-plus-sys"
+documentation = "https://docs.rs/isobus-plus-plus-sys"
+repository = "https://github.com/Thom-de-Jong/isobus-plus-plus-sys"
+readme = "README.md"
