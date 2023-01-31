@@ -1,0 +1,3 @@
+[submodule "ISO11783-CAN-Stack"]
+	path = ISO11783-CAN-Stack
+	url = https://github.com/ad3154/ISO11783-CAN-Stack.git
