@@ -5,7 +5,7 @@
 [![Crate License](https://img.shields.io/crates/l/isobus-plus-plus-sys.svg)](https://crates.io/crates/isobus-plus-plus-sys)
 [![Dependency Status](https://deps.rs/repo/github/Thom-de-Jong/isobus-plus-plus-sys/status.svg)](https://deps.rs/repo/github/Thom-de-Jong/isobus-plus-plus-sys)
 
-Rust bindings for the [ISOBUS++](https://github.com/ad3154/ISO11783-CAN-Stack) library.
+Rust bindings for the [Isobus++](https://github.com/ad3154/Isobus-plus-plus) library.
 
 ## Installation
 
