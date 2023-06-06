@@ -1,11 +1,11 @@
-# AgIsoStack-rs-sys
+# AgIsoStack-sys
 
-[![crates](https://img.shields.io/crates/v/AgIsoStack-rs-sys.svg)](https://crates.io/crates/AgIsoStack-rs-sys)
-[![Documentation](https://img.shields.io/docsrs/AgIsoStack-rs-sys.svg)](https://docs.rs/AgIsoStack-rs-sys)
-[![Crate License](https://img.shields.io/crates/l/AgIsoStack-rs-sys.svg)](https://crates.io/crates/AgIsoStack-rs-sys)
-[![Dependency Status](https://deps.rs/repo/github/Thom-de-Jong/AgIsoStack-rs-sys/status.svg)](https://deps.rs/repo/github/Thom-de-Jong/AgIsoStack-rs-sys)
+[![crates](https://img.shields.io/crates/v/AgIsoStack-sys.svg)](https://crates.io/crates/AgIsoStack-sys)
+[![Documentation](https://img.shields.io/docsrs/AgIsoStack-sys.svg)](https://docs.rs/AgIsoStack-sys)
+[![Crate License](https://img.shields.io/crates/l/AgIsoStack-sys.svg)](https://crates.io/crates/AgIsoStack-sys)
+[![Dependency Status](https://deps.rs/repo/github/Thom-de-Jong/AgIsoStack-sys/status.svg)](https://deps.rs/repo/github/Thom-de-Jong/AgIsoStack-sys)
 
-Rust bindings for the [AgIsoStack++](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) library.
+Auto-generated Rust bindings for the [AgIsoStack++](https://github.com/Open-Agriculture/AgIsoStack-plus-plus) library.
 
 ## Installation
 
@@ -14,14 +14,14 @@ Rust bindings for the [AgIsoStack++](https://github.com/Open-Agriculture/AgIsoSt
 - Install and use the Windows GNU toolchain.
   - `rustup toolchain install stable-x86_64-pc-windows-gnu`
   - `rustup default stable-gnu`
-- Use `AgIsoStack-rs-sys` as a dependency
+- Use `AgIsoStack-sys` as a dependency
 
 ### Linux
 
 - Install and use the Linux GNU toolchain.
   - `rustup toolchain install stable-x86_64-unknown-linux-gnu`
   - `rustup default stable-gnu`
-- Use `AgIsoStack-rs-sys` as a dependency
+- Use `AgIsoStack-sys` as a dependency
 
 ## License / Terms of Usage
 
@@ -33,4 +33,4 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 
 ## Contact
 
-If you have problems using the software, find mistakes, or have general questions please use the [issue tracker](https://github.com/Thom-de-Jong/AgIsoStack-rs-sys/issues) to contact me.
+If you have problems using the software, find mistakes, or have general questions please use the [issue tracker](https://github.com/Thom-de-Jong/AgIsoStack-sys/issues) to contact me.
