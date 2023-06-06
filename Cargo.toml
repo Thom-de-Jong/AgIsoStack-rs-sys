@@ -7,7 +7,7 @@ description = "Auto-generated Rust bindings for the AgIsoStack++ library by Adri
 keywords = ["isobus", "iso11783", "j1939", "can", "ffi"]
 categories = ["external-ffi-bindings"]
 
-license = "MIT"
+license = "MIT AND Apache-2.0"
 homepage = "https://github.com/Thom-de-Jong/agisostack-sys"
 documentation = "https://docs.rs/agisostack-sys"
 repository = "https://github.com/Thom-de-Jong/agisostack-sys"
